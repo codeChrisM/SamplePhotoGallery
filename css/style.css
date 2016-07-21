@@ -1,0 +1,26 @@
+.thumbnail img {
+	width:300px;
+	height: 130px;
+}
+.carousel {
+       width:945px;
+       height:530px;
+	}
+
+.carousel-inner > .item > img{
+       width:945px;
+       height:530px;
+     }
+
+.bottom{
+background-color: #e2eced;
+padding-top: .5;
+padding-bottom: 1%;
+}
+article{
+	padding: 5%;
+}
+.logosmall{
+	width: auto;
+	height: 35px;
+}
